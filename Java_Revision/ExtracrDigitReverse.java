@@ -1,8 +1,10 @@
+//count digit and vertically reverse write the no.
+
 package Java_Revision;
 
 import java.util.Scanner;
 
-public class que3 {
+public class ExtracrDigitReverse {
     public static void main(String[] args) {
         int n;
         Scanner scn=new Scanner(System.in);
