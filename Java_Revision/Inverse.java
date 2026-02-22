@@ -4,7 +4,7 @@ package Java_Revision;
 
 import java.util.Scanner;
 
-public class que4 {
+public class Inverse {
     public static void main(String[] args) {
         int inverse=0;
         int position=1;

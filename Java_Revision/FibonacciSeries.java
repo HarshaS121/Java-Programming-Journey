@@ -4,7 +4,7 @@ package Java_Revision;
 
 import java.util.Scanner;
 
-public class que1 {
+public class FibonacciSeries {
     public static void main(String[] args) {
         int n;
         System.out.println("enter number ");

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class que5 {
+public class PrimeFactorization {
     public static void main(String[] args) {
         System.out.println("enter number: ");        
         Scanner scn=new Scanner(System.in);

@@ -1,10 +1,10 @@
-//count digit
+//count digit and vertically write the no.
 
 package Java_Revision;
 
 import java.util.Scanner;
 
-public class que2 {
+public class ExtractDigits {
     public static void main(String[] args) {
        
       
